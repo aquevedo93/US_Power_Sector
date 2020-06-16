@@ -23,7 +23,7 @@ The databse includes publicly available data from:
 
 *Plants by Primary Fuel: 2009 to 2018* 
 
-We see a clear increase in number of plants and more specifically in solar, wind, and gas plants. 
+We see a clear increase in number of plants and more specifically in **solar**, **wind**, and **gas** plants. 
 
 ![](Output/Figures/PP_MAP_PUDL_09.png)
 
@@ -31,6 +31,10 @@ We see a clear increase in number of plants and more specifically in solar, wind
 
 
 *Share of Coal Generation by County: 2009 to 2018* 
+
+We see that:
+  - more counties have power plants
+  - power production has become **less coal dependent** 
 
 ![](Output/Figures/COAL_MAP_PUDL_09.png)
 
