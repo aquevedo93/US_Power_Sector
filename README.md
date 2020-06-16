@@ -1,6 +1,6 @@
 # Analyzing the Development and Decarbonization of the US Power Sector
 
-Using the Public Utility Data Liberation(PUDL) project's SQLite Database to analyze how the US's power sector has evolved over time both in terms of quantity of power plants and intensity of coal generation (percentage of coal generation over total generation by county) from 2009 to 2018. 
+Using the Public Utility Data Liberation(PUDL) project's SQLite Database to analyze how the US's power sector has evolved over time both in terms of quantity of power plants and percentage of coal generation over total generation by county from 2009 to 2018. 
 
 The databse includes publicly available data from:
 * EIA Form 860 (2009-2018)
