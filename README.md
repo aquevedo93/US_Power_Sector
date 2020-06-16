@@ -8,13 +8,33 @@ The databse includes publicly available data from:
 * EPA’s Continuous Emissions Monitoring System (1995-2018)
 * FERC Form 1 (1994-2018)
 
+
+## Files Included 
+
+* Code
+  - `PUDL_wrangling.ipynb`: extraction, cleaning, and wrangling of cost and generation data 
+  - `PP_PUDL.R`: mapping 
+
+* Output
+  - CSVs: dataframes produced from the PUDL SQLite Database 
+  - Figures: yearly maps
+
 ## Maps 
 
-*Plants by Primary Fuel* 
+*Plants by Primary Fuel: 2009 to 2018* 
+
+We see a clear increase in number of plants and more specifically in solar, wind, and gas plants. 
 
 ![](Output/Figures/PP_MAP_PUDL_09.png)
 
 ![](Output/Figures/PP_MAP_PUDL_18.png)
+
+
+*Share of Coal Generation by County: 2009 to 2018* 
+
+![](Output/Figures/COAL_MAP_PUDL_09.png)
+
+![](Output/Figures/COAL_MAP_PUDL_18.png)
 
 
 ## To Do:
