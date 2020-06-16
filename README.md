@@ -10,7 +10,7 @@ The databse includes publicly available data from:
 
 ## Maps 
 
-**Plants by Primary Fuel ** 
+*Plants by Primary Fuel* 
 
 ![](Output/Figures/PP_MAP_PUDL_09.png)
 
