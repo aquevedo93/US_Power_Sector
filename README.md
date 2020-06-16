@@ -43,7 +43,7 @@ We see that:
 
 ## To Do:
 
-Use a instrumental variable regression to analyze the effect of changing fuel prices on intensity of goal generation. 
+Use an instrumental variable regression to analyze the effect of changing fuel prices on the percentage of coal generation (dependance on coal for energy production) in the US.  
 
 ## Data
 https://catalyst.coop/pudl/ 
